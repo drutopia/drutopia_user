@@ -6,5 +6,6 @@ dependencies:
   - field
   - file
   - image
+  - path
   - user
 package: Drutopia
